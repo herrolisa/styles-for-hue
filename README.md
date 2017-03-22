@@ -14,4 +14,4 @@ Create a user friendly app.. [www.stylesforhue.com](http://www.stylesforhue.com/
 [Video Tutorial](https://www.youtube.com/embed/RW58JIfK6zc?version=3&vq=hd1080)
 
 ###Created By:
-[Lisa Zhou](https://github.com/herrolisa), [Christie Reindle](https://github.com/creindle), [Sheena Galutira](https://github.com/sogalutira), [Nikki Kobayashi](https://github.com/ynikki), [Bryce Saito](https://github.com/tokumori)
+[Lisa Zhou](https://github.com/lisazhou), [Christie Reindle](https://github.com/creindle), [Sheena Galutira](https://github.com/sogalutira), [Nikki Kobayashi](https://github.com/ynikki), [Bryce Saito](https://github.com/tokumori)
