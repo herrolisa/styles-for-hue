@@ -39,7 +39,7 @@ class About extends Component {
             <div className="flex-photos pos-2">
               <div className="profile"/>
               <h3>
-                <a className="link-to-github" href="https://github.com/herrolisa" target="_blank">
+                <a className="link-to-github" href="https://github.com/lisazhou" target="_blank">
                   Lisa Zhou
                 </a>
               </h3>
